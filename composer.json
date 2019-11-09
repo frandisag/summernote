@@ -5,12 +5,6 @@
     "keywords": ["laravel-admin", "extension", "editor"],
     "homepage": "https://github.com/laravel-admin-ext/summernote",
     "license": "MIT",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/frandisag/laravel-admin"
-        },
-    ],
     "authors": [
         {
             "name": "song",
