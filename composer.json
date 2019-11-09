@@ -5,6 +5,12 @@
     "keywords": ["laravel-admin", "extension", "editor"],
     "homepage": "https://github.com/laravel-admin-ext/summernote",
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/frandisag/laravel-admin"
+        },
+    ],
     "authors": [
         {
             "name": "song",
@@ -13,7 +19,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "encore/laravel-admin": "dev-frandisag-v.175"
+        "encore/laravel-admin": "dev-bintangmotor"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0"
